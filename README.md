@@ -7,7 +7,8 @@
 - 📝 I am student of:Le Trung Dinh High School(LTD)
   
 - 📫 How to reach me **12381quangtrung@gmail.com**
-Leagues of Legend: QT Hoàng Anhh
+
+- 🎮Leagues Of Legend: QT Hoàng Anhh
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.facebook.com/SepRush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vhaelatuido" height="30" width="40" /></a>
