@@ -6,7 +6,7 @@
 
 - 📝 I am student of:Le Trung Dinh High School(LTD)
   
-- 📫 How to reach me **12381quangtrung@gmail.com**
+- 📫 How to reach me: **12381quangtrung@gmail.com**
 
 - 🎮Leagues Of Legend: QT Hoàng Anhh
 <h3 align="left">Connect with me:</h3>
